@@ -19,3 +19,9 @@ A lightweight, basic Python application designed to demonstrate low-level user i
   * `pynput` – Library for monitoring and controlling input devices
 
 ---
+
+**This software is developed strictly for educational and defensive security research purposes.**
+
+**Authorized Testing Only: You must obtain explicit permission from the device owner before executing this software on any system.**
+
+**Liability: The author assumes no responsibility or liability for unauthorized usage, misuse, or damage caused by this software.**
